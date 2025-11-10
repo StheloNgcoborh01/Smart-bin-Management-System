@@ -52,10 +52,10 @@ Traditional bins lack real-time monitoring and notifications, causing delays in 
 ---
 
 ### Hardware Setup
-![Login](Images/Screenshot(363).png)
+![Login](Images/login.png)
 
 ### Web Dashboard
-![Dashboard Screenshot](Images/Screenshot(364).png)
+![Dashboard Screenshot](Images/dashboard.png)
 
 ---
 
