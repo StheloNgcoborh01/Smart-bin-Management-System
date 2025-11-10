@@ -29,7 +29,7 @@ const port = 3000;
 app.use(express.static("public"));
 
 app.use(express.json());
-app.set("view engine", "ejs");
+app.set("view engine", "ejs");https://github.com/StheloNgcoborh01/Smart-bin-Management-System.git
 app.use(express.urlencoded({ extended: true }));
 
 const PgSession = connectPgSimple(session);
