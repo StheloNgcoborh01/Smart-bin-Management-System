@@ -1,0 +1,23 @@
+{
+  "name": "iot",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Asanda",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "connect-pg-simple": "^10.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "epxress": "^0.0.1-security",
+    "express-session": "^1.18.2",
+    "nodemailer": "^7.0.9",
+    "path": "^0.12.7",
+    "pg": "^8.16.3"
+  }
+}
